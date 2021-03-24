@@ -1,0 +1,1 @@
+*** command 'lshal debug -E vendor.qti.hardware.trustedui@1.0::ITrustedInput/default' failed: exit code 128
